@@ -75,9 +75,13 @@ Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre
 
 ### Imagens:
 
-Para adicionar imagens, basta utilizar um Texto para o link entre colchetes[*Texto do link aqui dentro*] e o link entre parenteses( _URL aqui dentro_)(ex. [ repositório git-github ](https://github.com/gustavoguanabara/git-github).<br>
+Para adiconar imagem no github utilizando **markdown** basta inserir o texto da imagem com ponto de exclamação e colchetes(![*Nome da imagem aqui*]) e o link da imagem ficará dentro de parenteses(_O link da imagem vai aqui_)
 
 <img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
 
 Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
-[My octocat](https://myoctocat.com/build-your-octocat/)
+[My octocat](https://myoctocat.com/build-your-octocat/)<br>
+
+### Links:
+
+Para adicionar links, basta utilizar um **Texto para o link** entre colchetes[*Texto do link aqui dentro*] e o **link entre parenteses**( _URL aqui dentro_)(ex. [ repositório git-github ](https://github.com/gustavoguanabara/git-github).<br>
