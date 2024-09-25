@@ -130,8 +130,8 @@ else:
 
 ### Emojis:
 
-Para inserir emojis no github, basta utilizar dois pontos antes e depois do nome do emoji(:NomedoEmoji:)
+Para inserir emojis no github, basta utilizar dois pontos antes e depois do nome do emoji( :NomedoEmoji: )
 
-ex. Jovem Gafanhoto<br>
+ex. do Jovem Gafanhoto (Referência de Start Trek a saudação de vulcano)<br>
 
 :vulcan_salute:
