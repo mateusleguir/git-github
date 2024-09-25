@@ -31,7 +31,7 @@ Pode se utlizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).
 
 Para misturar dois tipos de marcações como _*Itálico e negrito*_ na mesma palavra:<br>
 
-Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- )
+Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- ) da palavra ou frase.<br>
 
 
 
