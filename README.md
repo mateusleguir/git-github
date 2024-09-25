@@ -25,7 +25,7 @@ Pode se utilizar dois til(~) no inicio e no fim da palavra(ex. ~~ palavra colada
 
 Para dividir a página por linhas:
 ---
-Pode se utlizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).<br>
+Pode se utilizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).<br>
 
 ### Combinações:
 
