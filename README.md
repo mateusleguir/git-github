@@ -60,8 +60,8 @@ Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) par
 Para utilizar lista de **tarefas**:
 
 - [x]  Criar repositório no GitHub
-- [x]  Subir arquivos [_*Pull*_ ] do curso pelo GitHub Desktop
-- [x]  Configurar e editar _*commit*_  o README.md
+- [x]  Subir arquivos [***Pull***] do curso pelo GitHub Desktop
+- [x]  Configurar e editar[***commit***]  o README.md
 - [x]  Habilitar o GitHub Pages no [Meu repositório](https://mateusleguir.github.io/git-github/)
 - [ ]  Ficar rico com programação
 
