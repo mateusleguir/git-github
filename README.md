@@ -91,7 +91,7 @@ Para adicionar links, basta utilizar um **Texto para o link** entre colchetes[*T
 
 ### Tabelas:
 
-Para gerar uma tabela é necessário utilizar pipe(|) para gerar as colunas entre os valores e 3 traços(---) embaixo da primeira linha da tabela.
+Para gerar uma tabela é necessário utilizar pipe( | ) para gerar as colunas entre os valores e 3 traços(---) embaixo da primeira linha da tabela.
 
 Segue exemplo:
 
