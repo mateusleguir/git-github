@@ -34,7 +34,7 @@ Para misturar dois tipos de marcações como _*Itálico e negrito*_ na mesma pal
 Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- ) da frase ou utilizar 3 asteriscos ou 3 underlines no inicio e no fim da palavra(ex. ___ AlgumaPalavraAquiColadaNosAsteriscosOuUnderlines ___).<br>
 
 
-### LISTAS:
+### Listas:
 
 Para utilizar lista **numerada**:
 1. Teste
