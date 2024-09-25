@@ -127,3 +127,9 @@ else:
     print(f'O valor {num} é IMPAR')
 
 ```
+
+### Emojis:
+
+Para inserir emojis no github, basta utilizar dois pontos antes do nome do emoji(:)
+
+:vulcan_salute
