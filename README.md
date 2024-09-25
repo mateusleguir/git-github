@@ -1,7 +1,7 @@
 # Curso de Git e GitHub
 Material do curso de **Git e Github**, disponivel gratuitamente no canal do ***CursoemVideo*** no [*Youtube*](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
 
-## Introdução a linguagem de marcação **MARKDOWN**:<br>
+## Introdução a linguagem de marcação **MARKDOWN**:
 
 <img src="https://icons.iconarchive.com/icons/github/octicons/128/markdown-16-icon.png" width="128" height="128">
 
