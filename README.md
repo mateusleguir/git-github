@@ -4,7 +4,7 @@
 </div><br>
 
 <div align="center">
-# Curso de Git e GitHub
+<h1>Curso de Git e GitHub</h1>
 </div><br>
 
 Material do curso de **Git e Github**, disponivel gratuitamente no canal do **_CursoemVideo_** no [_Youtube_](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
