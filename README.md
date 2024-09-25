@@ -59,11 +59,11 @@ Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) par
 
 Para utilizar lista de **tarefas**:
 
-- [x] Criar repositório no GitHub
-- [x] Subir arquivos do curso de Git e GitHub
-- [x] Configurar o README.md
-- [x] Habilitar o GitHub Pages
-- [ ] Ficar rico com programação
+- [x]  Criar repositório no GitHub
+- [x]  Subir arquivos do curso de Git e GitHub
+- [x]  Configurar o README.md
+- [x]  Habilitar o GitHub Pages
+- [ ]  Ficar rico com programação
 
 
 
