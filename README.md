@@ -35,7 +35,7 @@ Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. 
 
 
 ### LISTAS:
----
+
 Para utilizar lista **numerada**:
 1. Teste
 2. Teste2
@@ -60,13 +60,9 @@ Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) par
 Para utilizar lista de **tarefas**:
 
 - [x]  Criar repositório no GitHub
-- [x]  Subir arquivos do curso de Git e GitHub
-- [x]  Configurar o README.md
-- [x]  Habilitar o GitHub Pages
+- [x]  Subir arquivos(Pull) do curso pelo GitHub Desktop
+- [x]  Configurar e editar(commit) o README.md
+- [x]  Habilitar o GitHub Pages( https://mateusleguir.github.io/git-github/)
 - [ ]  Ficar rico com programação
 
 Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
-
-
-
-
