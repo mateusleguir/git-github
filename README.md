@@ -109,13 +109,13 @@ _Terminou a tabela_
 
 Para mostrar um comando de alguma linguagem em destaque, se utliza crase no inicio e no fim do comando( `` ).<br>
 
-ex.<br>
+_ex01._<br>
 
 "Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript."<br>
 
 Para mostrar um trecho de codigo destacado, se utiliza crases triplas no inicio e no fim do codigo( `````` ):<br>
 
-ex.<br>
+_ex02._<br>
 
 Olha meu programa em Python:
 
