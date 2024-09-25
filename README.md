@@ -1,4 +1,6 @@
-<img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/git-icon.png" width="128" height="128">
+
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/github-icon.png" width="128" height="128">
 
 # Curso de Git e GitHub
 
@@ -71,7 +73,7 @@ Para utilizar lista de **tarefas**:
 
 Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
 
-![octocat-flow](https://github.com/user-attachments/assets/5c5e5367-3f85-47ae-b446-fa5ba5b1eaa5)
+<img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
 
 Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
 [My octocat](https://myoctocat.com/build-your-octocat/)
