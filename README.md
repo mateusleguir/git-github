@@ -87,4 +87,4 @@ Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
 
 ### Links:
 
-Para adicionar links, basta utilizar um **Texto para o link** entre colchetes[*Texto do link aqui dentro*] e o **link entre parenteses**( _URL aqui dentro_)(ex. [ repositório git-github ](https://github.com/gustavoguanabara/git-github).<br>
+Para adicionar links, basta utilizar um **Texto para o link** entre colchetes[*Texto do link aqui dentro*] e o **link entre parenteses**( _URL aqui dentro_)(ex. [ repositório git-github ](https://github.com/gustavoguanabara/git-github))<br>
