@@ -1,2 +1,5 @@
 # Curso de Git e GitHub
 Material do curso de **Git e Github**, disponivel gratuitamente no canal do *Youtube*.
+
+Para destacar uma palavra em **Negrito**:
+Pode se utilizar asteriscos duplos no inicio e no fim da palavra(ex. ** palavra colada nos asteriscos **) ou pode se utilizar um underline no inicio e outro no fim da palavra(ex. _ palavra colada nos underlines _)
