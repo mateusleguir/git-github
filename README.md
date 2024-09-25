@@ -51,6 +51,7 @@ Para utilizar lista **demarcada**:
 * Teste3
 * Teste4
 * Teste5
+
 Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) para listagem.<br>
 
 
