@@ -80,7 +80,10 @@ Para adiconar imagem no github utilizando **markdown** basta inserir o texto da 
 
 No caso, a imagem aparecerá mais ou menos assim:<br>
 
-<img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
+<div align="center">
+  <img src="imagens/octocat-flow.png" width="250" height="250">
+
+</div><br>
 
 Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
 [My octocat](https://myoctocat.com/build-your-octocat/)<br>
