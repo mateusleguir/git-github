@@ -107,7 +107,7 @@ _Terminou a tabela_
 
 ### Códigos:
 
-Para mostrar um comando de alguma linguagem e deixar o comando em destaque:<br>
+Para mostrar um comando de alguma linguagem em destaque, se utliza crase no inicio e no fim do comando(`O comando que será destacado vai ficar entre crases`).<br>
 
 ex.<br>
 
