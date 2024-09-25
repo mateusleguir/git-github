@@ -67,7 +67,7 @@ Para utilizar lista de **tarefas**:
 
 Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
 
-Para criar seu próprio **Octocat**(Mascote GitHub), basta acessar:
+Para criar seu próprio **Octocat**(*Mascote GitHub*), basta acessar:
 [My octocat](https://myoctocat.com/build-your-octocat/)
 
 
