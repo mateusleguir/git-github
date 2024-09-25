@@ -73,6 +73,10 @@ Para utilizar lista de **tarefas**:
 
 Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
 
+### Imagens:
+
+Para adicionar imagens, basta utilizar um Texto para o link entre colchetes e o link entre parenteses(ex. [Texto do link](URL)).<br>
+
 <img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
 
 Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
