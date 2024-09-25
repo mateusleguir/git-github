@@ -1,7 +1,8 @@
-<img src="https://github.com/user-attachments/assets/5c5e5367-3f85-47ae-b446-fa5ba5b1eaa5" alt="octocat-flow" width="300" height:"500">
+<img src="./imagens/octocat-flow.png" alt="octocat-flow" width="300" height="500">
 
 # Curso de Git e GitHub
-Material do curso de **Git e Github**, disponivel gratuitamente no canal do ***CursoemVideo*** no [*Youtube*](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
+
+Material do curso de **Git e Github**, disponivel gratuitamente no canal do **_CursoemVideo_** no [_Youtube_](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
 
 ## Introdução a linguagem de marcação **MARKDOWN**:
 
@@ -18,29 +19,28 @@ Para título(Nivel 2) se utiliza 2 hashtag(##) no inicio da frase.<br>
 Para título(Nivel 3) se utiliza 3 hashtag(###) no inicio da frase.<br>
 
 Para destacar uma palavra em **Negrito**:<br>
-Pode se utilizar asteriscos duplos(**) no inicio e no fim da palavra(ex. ** palavra colada nos asteriscos **) ou pode se utilizar um underline no inicio e outro no fim da palavra(ex. _ palavra colada nos underlines _).<br>
+Pode se utilizar asteriscos duplos(**) no inicio e no fim da palavra(ex. ** palavra colada nos asteriscos \*\*) ou pode se utilizar um underline no inicio e outro no fim da palavra(ex. _ palavra colada nos underlines _).<br>
 
-Para destacar uma palavra em *Itálico*:<br>
-Pode se utilizar apenas um asterisco(*) no inicio e no fim da palavra(ex. * palavra colada nos asteriscos *).<br>
+Para destacar uma palavra em _Itálico_:<br>
+Pode se utilizar apenas um asterisco(_) no inicio e no fim da palavra(ex. _ palavra colada nos asteriscos \*).<br>
 
 Para destacar uma palavra ~~riscada~~:<br>
 Pode se utilizar dois til(~) no inicio e no fim da palavra(ex. ~~ palavra colada nos til ~~).<br>
 
+## Para dividir a página por linhas:
 
-Para dividir a página por linhas:
----
-Pode se utilizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).<br>
+Pode se utilizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(\*\*\*).<br>
 
 ### Combinações:
 
 Para misturar dois tipos de marcações como _*Itálico e negrito*_ na mesma palavra:<br>
 
-Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- ) da frase ou utilizar 3 asteriscos ou 3 underlines no inicio e no fim da palavra(ex. ___ AlgumaPalavraAquiColadaNosAsteriscosOuUnderlines ___).<br>
-
+Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -\* \*- ) da frase ou utilizar 3 asteriscos ou 3 underlines no inicio e no fim da palavra(ex. **_ AlgumaPalavraAquiColadaNosAsteriscosOuUnderlines _**).<br>
 
 ### Listas:
 
 Para utilizar lista **numerada**:
+
 1. Teste
 2. Teste2
 3. Test3
@@ -50,31 +50,28 @@ Para utilizar lista **numerada**:
 Para configurar uma lista numerada basta utilizar no inicio um numero com ponto(1.) para listagem.<br>
 
 Para utilizar lista **demarcada**:
-* Teste
-* Teste2
-* Teste3
-* Teste4
-* Teste5
 
-Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) para listagem.<br>
+- Teste
+- Teste2
+- Teste3
+- Teste4
+- Teste5
 
-É possivel tambem utilizar no lugar do asterisco(*) na listagem demarcada um traço(-), irá demarcar da mesma forma.<br>
+Para configurar uma lista demarcada basta utilizar no inicio um asterisco(\*) para listagem.<br>
 
+É possivel tambem utilizar no lugar do asterisco(\*) na listagem demarcada um traço(-), irá demarcar da mesma forma.<br>
 
 Para utilizar lista de **tarefas**:
 
-- [x]  Criar repositório no GitHub
-- [x]  Subir arquivos[***Pull***] do curso pelo GitHub Desktop
-- [x]  Configurar e editar[***commit***] o README.md
-- [x]  Habilitar o GitHub Pages no [meu repositório](https://mateusleguir.github.io/git-github/)
-- [ ]  Ficar rico com programação
+- [x] Criar repositório no GitHub
+- [x] Subir arquivos[***Pull***] do curso pelo GitHub Desktop
+- [x] Configurar e editar[***commit***] o README.md
+- [x] Habilitar o GitHub Pages no [meu repositório](https://mateusleguir.github.io/git-github/)
+- [ ] Ficar rico com programação
 
 Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
 
-
 ![octocat-flow](https://github.com/user-attachments/assets/5c5e5367-3f85-47ae-b446-fa5ba5b1eaa5)
 
-Para criar seu próprio **Octocat**(*Mascote GitHub*), basta acessar:
+Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
 [My octocat](https://myoctocat.com/build-your-octocat/)
-
-
