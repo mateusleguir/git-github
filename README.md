@@ -88,3 +88,19 @@ Para criar seu próprio **Octocat**(_Mascote GitHub_), basta acessar:
 ### Links:
 
 Para adicionar links, basta utilizar um **Texto para o link** entre colchetes[*Texto do link aqui dentro*] e o **link entre parenteses**( _URL aqui dentro_)(ex. [ repositório git-github ](https://github.com/gustavoguanabara/git-github))<br>
+
+### Tabelas:
+
+Para gerar uma tabela é necessário utilizar pipe(|) para gerar as colunas entre os valores e 3 traços(---) embaixo da primeira linha da tabela.
+
+Segue exemplo:
+
+| Num | Nome    | Nota |
+| --- | ------- | ---- |
+| 1   | Gustavo | 8,5  |
+| 2   | José    | 10,0 |
+| 3   | Maria   | 9,0  |
+| 4   | João    | 7,5  |
+| 5   | Joana   | 9,75 |
+
+Terminou a tabela
