@@ -103,4 +103,12 @@ Segue exemplo:
 | 4   | João    | 7,5  |
 | 5   | Joana   | 9,75 |
 
-Terminou a tabela
+_Terminou a tabela_
+
+### Códigos:
+
+Para mostrar um comando de alguma linguagem e deixar o comando em destaque:<br>
+
+ex.<br>
+
+"Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript."
