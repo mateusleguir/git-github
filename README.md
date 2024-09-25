@@ -1,7 +1,7 @@
 <div align="center"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/git-icon.png" alt="git" width="128" height="128" style="display:inline-block; margin-right: 10px;">
 
 <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/github-icon.png" alt="github" width="128" height="128" style="display:inline-block;">
-</div><br>
+</div>
 
 <div align="center">
 <h1>Curso de Git e GitHub</h1>
