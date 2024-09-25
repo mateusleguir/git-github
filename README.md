@@ -54,6 +54,8 @@ Para utilizar lista **demarcada**:
 
 Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) para listagem.<br>
 
+É possivel tambem utilizar no lugar do asterisco(*) na listagem um traço(-), irá demarcar da mesma forma.<br>
+
 
 
 
