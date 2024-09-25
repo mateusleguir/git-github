@@ -23,5 +23,10 @@ Para destacar uma palavra ~~riscada~~:<br>
 Pode se utilizar dois til(~) no inicio e no fim da palavra(ex. ~~ palavra colada nos til ~~).<br>
 
 
+Para dividir a pagina por linhas:
+---
+Pode se utlizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).<br>
+
+
 
 
