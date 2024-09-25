@@ -138,4 +138,4 @@ ex.<br>
 :hand:
 :monkey:
 
-Para acessar um repositório de emojis super legal e bem organizado da @ikatyang, acesse [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+Para acessar um repositório de emojis super legal e bem organizado da **@ikatyang**, acesse [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
