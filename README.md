@@ -36,14 +36,22 @@ Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. 
 
 ### LISTAS:
 ---
-Para utilizar listas numeradas:
+Para utilizar lista numerada:
 1. Teste
 2. Teste2
 3. Test3
 4. Teste4
 5. Teste5
 
-Para configurar uma lista numerada basta utilizar no inicio um numero com ponto(1.) para listagem.
+Para configurar uma lista numerada basta utilizar no inicio um numero com ponto(1.) para listagem.<br>
+
+Para utilizar lista demarcada:
+* Teste
+* Teste2
+* Teste3
+* Teste4
+* Teste5
+Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) para listagem.<br>
 
 
 
