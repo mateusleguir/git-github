@@ -27,6 +27,7 @@ Para dividir a pagina por linhas:
 ---
 Pode se utlizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).<br>
 
+### Combinações:
 
 Para misturar dois tipos de marcações como _*Itálico e negrito*_ na mesma palavra:<br>
 
