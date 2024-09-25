@@ -130,6 +130,8 @@ else:
 
 ### Emojis:
 
-Para inserir emojis no github, basta utilizar dois pontos antes do nome do emoji(:)
+Para inserir emojis no github, basta utilizar dois pontos antes e depois do nome do emoji(:NomedoEmoji:)
+
+ex. Jovem Gafanhoto<br>
 
 :vulcan_salute:
