@@ -1,4 +1,4 @@
-<img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="300">
+<img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
 
 # Curso de Git e GitHub
 
