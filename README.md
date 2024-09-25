@@ -3,6 +3,8 @@ Material do curso de **Git e Github**, disponivel gratuitamente no canal do ***C
 
 ## Introdução a linguagem de marcação **MARKDOWN**:<br>
 
+<img src="https://icons.iconarchive.com/icons/github/octicons/128/markdown-16-icon.png" width="128" height="128">
+
 ### Para destacar uma palavra ou frase como título:
 
 Pode se utilizar pelo menos 3 níveis e tamanhos de título utilizando Hashtag(#).<br>
