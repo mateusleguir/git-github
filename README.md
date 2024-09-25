@@ -1,9 +1,11 @@
 <div align="center"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/git-icon.png" alt="git" width="128" height="128" style="display:inline-block; margin-right: 10px;">
 
 <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/github-icon.png" alt="github" width="128" height="128" style="display:inline-block;">
-</div>
+</div><br>
 
+<div align="center">
 # Curso de Git e GitHub
+</div><br>
 
 Material do curso de **Git e Github**, disponivel gratuitamente no canal do **_CursoemVideo_** no [_Youtube_](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
 
