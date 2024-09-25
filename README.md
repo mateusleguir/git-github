@@ -57,7 +57,7 @@ Para configurar uma lista demarcada basta utilizar no inicio um asterisco(*) par
 É possivel tambem utilizar no lugar do asterisco(*) na listagem demarcada um traço(-), irá demarcar da mesma forma.<br>
 
 
-Para utilizar lista de tarefas:
+Para utilizar lista de **tarefas**:
 
 - [x] Criar repositório no GitHub
 - [x] Subir arquivos do curso de Git e GitHub
