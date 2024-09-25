@@ -11,7 +11,7 @@ Para título(Nivel 1), geralmente usando para título principal se utiliza apena
 
 Para título(Nivel 2) se utiliza 2 hashtag(##) no inicio da frase.<br>
 
-Para título(Nivel 3) se utiliza 3 hashtag(##) no inicio da frase.<br>
+Para título(Nivel 3) se utiliza 3 hashtag(###) no inicio da frase.<br>
 
 Para destacar uma palavra em **Negrito**:<br>
 Pode se utilizar asteriscos duplos(**) no inicio e no fim da palavra(ex. ** palavra colada nos asteriscos **) ou pode se utilizar um underline no inicio e outro no fim da palavra(ex. _ palavra colada nos underlines _).<br>
