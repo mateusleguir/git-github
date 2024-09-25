@@ -132,4 +132,4 @@ else:
 
 Para inserir emojis no github, basta utilizar dois pontos antes do nome do emoji(:)
 
-:vulcan_salute
+:vulcan_salute:
