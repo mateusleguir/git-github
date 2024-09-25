@@ -65,6 +65,8 @@ Para utilizar lista de **tarefas**:
 - [x]  Habilitar o GitHub Pages
 - [ ]  Ficar rico com programação
 
+Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
+
 
 
 
