@@ -111,4 +111,19 @@ Para mostrar um comando de alguma linguagem em destaque, se utliza crase no inic
 
 ex.<br>
 
-"Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript."
+"Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript."<br>
+
+Para mostrar um trecho de codigo destacado, se utiliza crases triplas no inicio e no fim do codigo( `````` ):<br>
+
+ex.<br>
+
+Olha meu programa em Python:
+
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR')
+
+```
