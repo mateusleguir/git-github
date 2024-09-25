@@ -34,5 +34,17 @@ Para misturar dois tipos de marcações como _*Itálico e negrito*_ na mesma pal
 Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- ) da palavra ou frase.<br>
 
 
+### LISTAS:
+---
+Para utilizar listas numeradas:
+1. Teste
+2. Teste2
+3. Test3
+4. Teste4
+5. Teste5
+
+Para configurar uma lista numerada basta utilizar no inicio um numero com ponto(1.) para listagem.
+
+
 
 
