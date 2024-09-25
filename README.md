@@ -1,5 +1,5 @@
 # Curso de Git e GitHub
-Material do curso de **Git e Github**, disponivel gratuitamente no canal do **CursoemVideo** no [*Youtube*](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
+Material do curso de **Git e Github**, disponivel gratuitamente no canal do ***CursoemVideo*** no [*Youtube*](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
 
 ## Introdução a linguagem de marcação **MARKDOWN**:<br>
 
