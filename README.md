@@ -36,7 +36,7 @@ Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. 
 
 ### LISTAS:
 ---
-Para utilizar lista numerada:
+Para utilizar lista **numerada**:
 1. Teste
 2. Teste2
 3. Test3
@@ -45,7 +45,7 @@ Para utilizar lista numerada:
 
 Para configurar uma lista numerada basta utilizar no inicio um numero com ponto(1.) para listagem.<br>
 
-Para utilizar lista demarcada:
+Para utilizar lista **demarcada**:
 * Teste
 * Teste2
 * Teste3
