@@ -5,7 +5,7 @@ Material do curso de **Git e Github**, disponivel gratuitamente no canal do *You
 
 ### Para destacar uma palavra ou frase como título:
 
-Pode se utilzar pelo menos 3 niveis e tamanhos de título utilzando Hashtag(#).<br>
+Pode se utilizar pelo menos 3 niveis e tamanhos de título utilzando Hashtag(#).<br>
 
 Para título(Nivel 1), geralmente usando para título principal se utiliza apenas 1 hashtag(#) no inicio da frase.<br>
 
