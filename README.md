@@ -64,7 +64,7 @@ Para utilizar lista de **tarefas**:
 - [x]  Criar repositório no GitHub
 - [x]  Subir arquivos[***Pull***] do curso pelo GitHub Desktop
 - [x]  Configurar e editar[***commit***] o README.md
-- [x]  Habilitar o GitHub Pages no [Meu repositório](https://mateusleguir.github.io/git-github/)
+- [x]  Habilitar o GitHub Pages no [meu repositório](https://mateusleguir.github.io/git-github/)
 - [ ]  Ficar rico com programação
 
 Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre e fecha colchetes(-[ ]) para listagem.<br>
