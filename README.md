@@ -1,3 +1,4 @@
+![octocat-flow](https://github.com/user-attachments/assets/5c5e5367-3f85-47ae-b446-fa5ba5b1eaa5)
 # Curso de Git e GitHub
 Material do curso de **Git e Github**, disponivel gratuitamente no canal do ***CursoemVideo*** no [*Youtube*](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&ab_channel=CursoemV%C3%ADdeo).<br>
 
