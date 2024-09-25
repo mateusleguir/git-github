@@ -71,7 +71,7 @@ Para configurar uma lista demarcada basta utilizar no inicio um asterisco(\*) pa
 Para utilizar lista de **tarefas**:
 
 - [x] Criar repositório no GitHub
-- [x] Subir arquivos[***Pull***] do curso pelo GitHub Desktop
+- [x] Subir arquivos[***pull***] do curso pelo GitHub Desktop
 - [x] Configurar e editar[***commit***] o README.md
 - [x] Habilitar o GitHub Pages no [meu repositório](https://mateusleguir.github.io/git-github/)
 - [ ] Ficar rico com programação
