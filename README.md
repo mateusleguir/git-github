@@ -75,7 +75,7 @@ Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre
 
 ### Imagens:
 
-Para adicionar imagens, basta utilizar um Texto para o link entre colchetes e o link entre parenteses(ex. [Texto do link](URL)).<br>
+Para adicionar imagens, basta utilizar um Texto para o link entre colchetes[] e o link entre parenteses()(ex. [ git-github ](https://github.com/gustavoguanabara/git-github).<br>
 
 <img src="./imagens/octocat-flow.png" alt="octocat-flow" width="200" height="200">
 
