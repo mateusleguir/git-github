@@ -23,7 +23,7 @@ Para destacar uma palavra ~~riscada~~:<br>
 Pode se utilizar dois til(~) no inicio e no fim da palavra(ex. ~~ palavra colada nos til ~~).<br>
 
 
-Para dividir a pagina por linhas:
+Para dividir a página por linhas:
 ---
 Pode se utlizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).<br>
 
@@ -31,7 +31,7 @@ Pode se utlizar embaixo da palavra ou frase 3 traços(---) ou 3 asteriscos(***).
 
 Para misturar dois tipos de marcações como _*Itálico e negrito*_ na mesma palavra:<br>
 
-Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- ) da frase ou utilizar 3 asteriscos ou 3 underlines no inicio e no fim da palavra(ex: *** AlgumaPalavraAquiColadaNosAsteriscosOuUnderlines ***).<br>
+Pode se utilizar em sequência 1 underline e 1 asterisco no inicio e no fim(ex. -* *- ) da frase ou utilizar 3 asteriscos ou 3 underlines no inicio e no fim da palavra(ex. ___ AlgumaPalavraAquiColadaNosAsteriscosOuUnderlines ___).<br>
 
 
 ### LISTAS:
