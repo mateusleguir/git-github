@@ -80,7 +80,7 @@ Para configurar uma lista de tarefas basta utilizar no inicio um traço com abre
 
 ### Imagens:
 
-Para adiconar imagem no github utilizando **markdown** basta inserir o texto da imagem com ponto de exclamação e colchetes(![*Nome da imagem aqui*]) e o link da imagem ficará dentro de parenteses(_O link da imagem vai aqui_)<br>
+Para adicionar imagem no github utilizando **markdown** basta inserir o texto da imagem com ponto de exclamação e colchetes(![*Nome da imagem aqui*]) e o link da imagem ficará dentro de parenteses(_O link da imagem vai aqui_)<br>
 
 No caso, a imagem aparecerá mais ou menos assim:<br>
 
